@@ -24,5 +24,7 @@ incl. progress in percent
 # Limitations:
 
 # Lessons Learned:
+Switch platform to WebGl
+Build WebGl
 
 Copyright by Christian Ebner
